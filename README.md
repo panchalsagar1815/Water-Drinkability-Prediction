@@ -21,7 +21,7 @@ Utilized a range of machine learning models for prediction:
    
 2. **K-Nearest Neighbors (KNN) Classifier:**
    - Leveraged for classification based on the similarity of data points.
-   - Assessed neighboring instances to determine water potability.
+   - Assessed neighbouring instances to determine water potability.
 
 3. **Random Forest Classifier:**
    - An ensemble learning model for improved predictive accuracy.
