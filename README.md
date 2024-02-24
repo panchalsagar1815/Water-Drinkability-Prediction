@@ -1,6 +1,4 @@
-# 
-
-**Project: Water Drinkability Prediction**
+# **Project: Water Drinkability Prediction**
 
 **Objective:**
 The Water Drinkability Prediction project focuses on assessing the potability of water based on various chemical and physical features. The dataset comprises key parameters such as pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity, and Potability. Through data preprocessing, cleaning, and machine learning models, the goal is to predict whether water is suitable for consumption.
