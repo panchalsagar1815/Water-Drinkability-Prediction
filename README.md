@@ -1,4 +1,4 @@
-# Water-Drinkability-Prediction
+# Water-Drinkability
 
 **Project: Water Drinkability Prediction**
 
